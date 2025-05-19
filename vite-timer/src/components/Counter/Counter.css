@@ -1,0 +1,8 @@
+.counterWrapper {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.counterWrapper button {
+    margin: 5px;
+}

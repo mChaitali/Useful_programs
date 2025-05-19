@@ -1,0 +1,8 @@
+.timerWrapper {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.timerWrapper button {
+    margin: 5px;
+}
